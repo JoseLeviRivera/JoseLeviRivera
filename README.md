@@ -2,7 +2,7 @@
 ### Rumbo a ser full-stack engineer ...
 Soy estudiante del octavo semestre de la carrera Ingenieria en Computación, a lo largo de mi trayectoria como estudiante eh aprendido diversos temas como aprender a desarrollar aplicaciones web, escritorio, y móviles, además tengo conocimiento básicos en base de datos, Sistemas operativos como linux y window y en redes; actualmente estoy aprendiendo temas sobre IA, por parte de mi institución. 
 - Estoy interesado en el mundo de la tecnologia y el desarrollo del software👀 
-- Me considero que soy una persona que siempre está aprendiendo cosas nuevas de la tecnoligia 🌱
+- Me considero que soy una persona que siempre está aprendiendo cosas nuevas de la tecnologia 🌱
 
 ## Tecnologías:
 
