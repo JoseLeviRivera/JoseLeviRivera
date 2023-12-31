@@ -1,5 +1,5 @@
 # Hola Mi nombre es </ José Leví >👋 
-Soy estudiante del octavo semestre de la carrera Ingeniería en Computación, a lo largo de mi trayectoria como estudiante eh aprendido diversos temas como aprender a desarrollar aplicaciones web, escritorio, y móviles, además tengo conocimiento básicos en base de datos, Sistemas operativos como linux y window y en redes; actualmente estoy aprendiendo temas sobre IA, por parte de mi institución. 
+Soy de la carrera Ingeniería en Computación, eh trabajado y conozco diversos temas como  el desarrollo de aplicaciones web, escritorio, y móviles, además tengo conocimiento básicos en base de datos, Sistemas operativos como linux y window y en redes; actualmente estoy aprendiendo temas sobre IA, por parte de mi institución. 
 - Estoy interesado en el mundo de la técnología y el desarrollo del software👀 
 - Me considero que soy una persona que siempre está aprendiendo cosas nuevas de la tecnologia 🌱
 
